@@ -1,4 +1,4 @@
-# PHP library for the Axepta BNP Paribas/Computop API
+# PHP library for the Axepta BNP Paribas
 
 ## ⬇️ Download
 
